@@ -1,0 +1,7 @@
+[package]
+name = "neural_network"
+version = "0.1.0"
+authors = ["Stephan <ga58max@mytum.de>"]
+edition = "2018"
+
+[dependencies]
