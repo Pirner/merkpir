@@ -1,2 +1,2 @@
 # merkpir
-Getting work done with rust
+learn with Rust
